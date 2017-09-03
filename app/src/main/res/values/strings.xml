@@ -4,7 +4,7 @@
     <string name="name">Full Name</string>
     <string name="email">Email</string>
     <string name="username">Email / Mobile Number</string>
-    <string name="password">PasswordS</string>
+    <string name="password">Password</string>
     <string name="cell">Phone NO</string>
     <string name="reg">Registration</string>
     <string name="date">DOB</string>
